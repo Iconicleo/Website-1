@@ -1,2 +1,2 @@
 # Website-1
- A Single page Business Website made with HTML, Css, JS and Jquery.
+A Multipages responsive Website made using HTML, CSS, font awesome, google fonts, jquery and Javascript.
