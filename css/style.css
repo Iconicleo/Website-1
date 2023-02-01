@@ -97,7 +97,7 @@ header .navbar ul li a:hover {
   background: url(../img/bg1.png) no-repeat;
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: scroll;
   flex-wrap: wrap;
 }
 .home .image {
@@ -129,7 +129,7 @@ header .navbar ul li a:hover {
   background: url(../img/bg1.png) no-repeat;
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: scroll;
   padding-bottom: 2rem;
 }
 .about .image {
@@ -159,7 +159,7 @@ header .navbar ul li a:hover {
   background: url(../img/bg1.png) no-repeat;
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: scroll;
 }
 
 .service .box-container {
@@ -210,7 +210,7 @@ header .navbar ul li a:hover {
   background: url(../img/bg1.png) no-repeat;
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: scroll;
 }
 
 .plan .box-container {
@@ -270,7 +270,7 @@ header .navbar ul li a:hover {
   flex-wrap: wrap;background: url(../img/bg1.png) no-repeat;
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: scroll;
   /* justify-content: center; */
   
 }
